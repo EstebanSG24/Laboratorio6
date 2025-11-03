@@ -17,5 +17,5 @@ git init
 git add -A
 git commit -m "Primera version - Laboratorio 6"
 git branch -M main
-git remote add origin https://github.com/tuUsuario/Laboratorio6.git
+git remote add origin https://github.com/EstebanSG24/Laboratorio6.git
 git push -u origin main
