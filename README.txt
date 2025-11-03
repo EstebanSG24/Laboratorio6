@@ -19,3 +19,6 @@ git commit -m "Primera version - Laboratorio 6"
 git branch -M main
 git remote add origin https://github.com/EstebanSG24/Laboratorio6.git
 git push -u origin main
+
+Pagina de mi compañero
+https://github.com/SebastianMolina2603/Laboratorio-6.git
